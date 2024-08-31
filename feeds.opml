@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Miniflux</title>
+        <dateCreated>Sat, 31 Aug 2024 00:45:48 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="IT科技">
+            <outline title="IT之家" text="IT之家" xmlUrl="https://www.ithome.com/rss" htmlUrl="https://www.ithome.com/" description="IT之家 - 软媒旗下网站" type="rss"></outline>
+            <outline title="虎嗅" text="虎嗅" xmlUrl="https://rss.huxiu.com/" htmlUrl="https://www.huxiu.com" type="rss"></outline>
+            <outline title="IT之家-24 小时最热" text="IT之家-24 小时最热" xmlUrl="https://rsshub.app/ithome/ranking/24h" htmlUrl="https://www.ithome.com/" description="IT之家-24 小时最热 - Powered by RSSHub" type="rss"></outline>
+            <outline title="小众软件" text="小众软件" xmlUrl="https://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com" type="rss"></outline>
+            <outline title="少数派" text="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" type="rss"></outline>
+            <outline title="爱范儿" text="爱范儿" xmlUrl="https://www.ifanr.com/feed" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" type="rss"></outline>
+            <outline title="精品MAC应用分享" text="精品MAC应用分享" xmlUrl="https://xclient.info/feed" htmlUrl="https://xclient.info/" type="rss"></outline>
+            <outline title="苹果fans博客" text="苹果fans博客" xmlUrl="http://www.mac52ipod.cn/feed.php" htmlUrl="http://www.mac52ipod.cn/index.php" type="rss"></outline>
+        </outline>
+        <outline text="TG频道">
+            <outline title="小鹏DigitalCHL - TG频道" text="小鹏DigitalCHL - TG频道" xmlUrl="https://rsshub.rss.tips/telegram/channel/rocchl" htmlUrl="https://t.me/s/rocchl" description="小鹏Digital官方公告频道，用于各种重要资讯和活动发布 - Powered by RSSHub" type="rss"></outline>
+            <outline title="白嫖机场|免费节点|资源分享 - TG频道" text="白嫖机场|免费节点|资源分享 - TG频道" xmlUrl="https://rsshub.app/telegram/channel/mfjd666" htmlUrl="https://t.me/s/mfjd666" description="一个白嫖机场|免费机场|节点分享频道不定期发布机场订阅抽奖活动交流群组：https://t.me/MFJD99 - Powered by RSSHub" type="rss"></outline>
+            <outline title="肥羊影音数码综合分享 - TG频道" text="肥羊影音数码综合分享 - TG频道" xmlUrl="https://rsshub.app/telegram/channel/feiyangofficalchannel" htmlUrl="https://t.me/s/feiyangofficalchannel" description="👥本频道交流群∶https://t.me/feiyangdigital📺频道主的BiliBili频道：https://space.bilibili.com/138129883📺频道主的YouTuBe频道：https://www.youtube.com/@youshandefeiyang - Powered by RSSHub" type="rss"></outline>
+        </outline>
+        <outline text="新闻资讯">
+            <outline title="36氪 - 快讯" text="36氪 - 快讯" xmlUrl="https://rsshub.app/36kr/newsflashes" htmlUrl="https://www.36kr.com/newsflashes" description="36氪 - 快讯 - Powered by RSSHub" type="rss"></outline>
+            <outline title="三联生活周刊" text="三联生活周刊" xmlUrl="https://plink.anyfeeder.com/weixin/lifeweek" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A" description="一本杂志和他倡导的生活。" type="rss"></outline>
+            <outline title="半月谈" text="半月谈" xmlUrl="https://plink.anyfeeder.com/weixin/banyuetan-weixin" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E5%8D%8A%E6%9C%88%E8%B0%88" description="“中华第一刊”《半月谈》的官微，每天帮你分析时政大事，品读社会人生。您的时事政策顾问，学习生活益友。" type="rss"></outline>
+            <outline title="参考消息" text="参考消息" xmlUrl="https://plink.anyfeeder.com/weixin/ckxxwx" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF" description="纵览外国媒体每日报道精选" type="rss"></outline>
+            <outline title="喷嚏图卦" text="喷嚏图卦" xmlUrl="https://feedx.net/rss/pentitugua.xml" htmlUrl="http://dapenti.com/" description="喷嚏图卦全文RSS。获取更多全文RSS：https://feedx.net" type="rss"></outline>
+            <outline title="知乎每日精选" text="知乎每日精选" xmlUrl="https://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com/" description="中文互联网最大的知识平台，帮助人们便捷地分享彼此的知识、经验和见解。" type="rss"></outline>
+        </outline>
+        <outline text="网盘资源">
+            <outline title="网盘资源收藏(夸克) - TG频道" text="网盘资源收藏(夸克) - TG频道" xmlUrl="https://rsshub.app/telegram/channel/yunpanshare" htmlUrl="https://t.me/s/yunpanshare" description="夸克网盘 软件工具 教程 游戏 影视 音乐 杂志 电子书 有声资源 素材模板...高质量资源分享投稿搜索： @kejiqubot - Powered by RSSHub" type="rss"></outline>
+            <outline title="肯德基 🍟4K 电影 - TG频道" text="肯德基 🍟4K 电影 - TG频道" xmlUrl="https://rsshub.app/telegram/channel/XiangxiuNB" htmlUrl="https://t.me/s/XiangxiuNB" description="🌟频道简介：主要分享最新的电影网盘资源，期待您的到来，只为给您带来最优质的内容🎊🔔 TG Channel：@XiangxiuNB💬 TG Group：@KFCYeah👩🏻‍🌾 Leader：@XiangXiuer🤖 投稿机器人： @ZhuliyerBot新的一年，祝您天天开心😁 - Powered by RSSHub" type="rss"></outline>
+            <outline title="115一生相伴 - TG频道" text="115一生相伴 - TG频道" xmlUrl="https://rsshub.app/telegram/channel/ysb115" htmlUrl="https://t.me/s/ysb115" description="一个人能走很快，一群人才能走远。115资源分享群推荐： @shares_115 @guaguale115 - Powered by RSSHub" type="rss"></outline>
+            <outline title="115网盘资源 - TG频道" text="115网盘资源 - TG频道" xmlUrl="https://rsshub.app/telegram/channel/hao115" htmlUrl="https://t.me/s/hao115" description="在115分享资源频道，您将发现丰富多彩的优质电影和电视剧资源。从最新上映的大片到经典老电影，各类题材应有尽有。我们不仅提供高清画质，更注重资源的质量和多样性，以满足不同用户的观影需求。尽情浏览我们的电影电视剧库，找到您喜欢的作品，让每一次观影都成为愉悦的享受。 - Powered by RSSHub" type="rss"></outline>
+            <outline title="阿里云盘4K影视 - TG频道" text="阿里云盘4K影视 - TG频道" xmlUrl="https://rsshub.app/telegram/channel/Aliyun_4K_Movies" htmlUrl="https://t.me/s/Aliyun_4K_Movies" description="欢迎你来到4K影视频道，频道管理都是影视爱好者，主要分享以4K画质为主的电影、电视剧、纪录片、动画等影视资源。当然也有其他画质资源：如1080P、720P的稀缺资源。 - Powered by RSSHub" type="rss"></outline>
+            <outline title="阿里云盘发布 - TG频道" text="阿里云盘发布 - TG频道" xmlUrl="https://rsshub.rss.tips/telegram/channel/sharealiyun" htmlUrl="https://t.me/s/sharealiyun" description="和谐、友爱的阿里云盘分享交流频道，每个人在这里都可以分享自己想分享的资源。禁止GHS流量卡： @iiShare影子频道： @shareAliyun00资源交流群： @aliyundriveShare网盘资源收藏： @yunpanshare科技趣闻杂记： @kejiqu备份频道： @alyShare - Powered by RSSHub" type="rss"></outline>
+        </outline>
+        <outline text="论坛杂谈">
+            <outline title="LINUX DO - 最新话题" text="LINUX DO - 最新话题" xmlUrl="https://linux.do/latest.rss" htmlUrl="https://linux.do/latest" type="rss"></outline>
+            <outline title="酷安 - 新鲜图文" text="酷安 - 新鲜图文" xmlUrl="https://rsshub.app/coolapk/tuwen-xinxian" htmlUrl="https://www.coolapk.com/" description="酷安 - 新鲜图文 - Powered by RSSHub" type="rss"></outline>
+            <outline title="V2EX - 技术" text="V2EX - 技术" xmlUrl="https://www.v2ex.com/feed/tab/tech.xml" htmlUrl="https://www.v2ex.com/" description="way to explore" type="rss"></outline>
+            <outline title="不死鸟 - 分享为王官网 - 每日分享" text="不死鸟 - 分享为王官网 - 每日分享" xmlUrl="https://iui.su/feed/fx/" htmlUrl="https://iui.su/fx/" type="rss"></outline>
+            <outline title="福利吧" text="福利吧" xmlUrl="https://fuliba2024.net/feed" htmlUrl="https://fuliba2024.net" type="rss"></outline>
+            <outline title="酷安图文 - 编辑精选" text="酷安图文 - 编辑精选" xmlUrl="https://rsshub.app/coolapk/tuwen" htmlUrl="https://www.coolapk.com/" description="酷安图文 - 编辑精选 - Powered by RSSHub" type="rss"></outline>
+        </outline>
+    </body>
+</opml>
